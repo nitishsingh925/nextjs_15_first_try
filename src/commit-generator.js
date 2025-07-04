@@ -4,7 +4,7 @@ import path from "path";
 import moment from "moment";
 
 // ✅ Step 1: All dates you want to use (DD/MM/YYYY)
-const dates = ["21/3/2024", "30/4/2024", "20/6/2024", "23/7/2024", "25/7/2024"];
+const dates = ["23/8/2024", "25/8/2024"];
 
 // ✅ Auto-generated messages
 const messages = [
